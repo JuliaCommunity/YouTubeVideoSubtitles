@@ -6,7 +6,7 @@ Community sources subtitles for videos on the Julia Language YouTube channel.
 
 This guide will help you update the subtitles on one of the Julia Language YouTube videos. Please follow the steps below.
 
-## Creating Timestamps
+## Creating a Transcript
 
 1) Head to https://amara.org/en/videos/create/ and create an account (one time step).
 2) Enter your workspace: https://amara.org/en/workspace/.
